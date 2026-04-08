@@ -1,4 +1,8 @@
-# Sistema de Gestión Integral (Gestión Integral)
+## Nombre del proyecto
+Gestión Integral
+
+## Tópico elegido
+Sistema de gestión de información orientado a la administración de entidades, registros y operaciones dentro de una organización.
 
 ## Descripción
 El presente proyecto, denominado “Gestión Integral”, consiste en el desarrollo de un sistema orientado a la administración y organización de información dentro de una organización.
@@ -10,7 +14,7 @@ El sistema tiene como finalidad optimizar los procesos administrativos, mejorar 
 ## Estado del proyecto
 En desarrollo (Trabajo Práctico - Programación)
 
-## Integrantes
+## Miembros del proyecto
 - Lucas Lautaro Luciano
 - Ailen Ferreira
 - Lautaro Esposito
@@ -33,5 +37,8 @@ En desarrollo (Trabajo Práctico - Programación)
 - Centralizar la información en una única plataforma.  
 - Facilitar la organización y el acceso a los datos.  
 
-## Metodología de trabajo
-Se utilizará un enfoque ágil basado en tablero Kanban para la organización de tareas.
+## Aplicación de gestión de proyecto
+Se utilizará Trello como herramienta de gestión de tareas bajo metodología Kanban.
+
+URL del tablero:
+https://trello.com/b/YHN2p26F/
